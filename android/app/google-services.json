@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578761558129",
+    "project_id": "convocare-d4f46",
+    "storage_bucket": "convocare-d4f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578761558129:android:1bb210b266201a996f73d0",
+        "android_client_info": {
+          "package_name": "com.example.convo_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdPhcsGoGnKWPS3zIKrNyLTbef_K3PI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
